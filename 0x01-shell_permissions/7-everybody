@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp u=rwx g=rx o=x hello
+chown u=rwx g=rx o=x hello
